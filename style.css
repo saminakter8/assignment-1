@@ -28,7 +28,7 @@ body {
     font-weight: 700;
     color: white;
     text-decoration: none;
-    background-color: tomato;
+    background-color: plum;
     padding: 10px;
     border-radius: 5px;
 }
@@ -102,6 +102,19 @@ body {
     background-color: rgb(221, 240, 191);
 }
 
+.vision-task {
+    display: flex;
+    align-items: center;
+}
+
+.vision {
+
+    margin-right: 10px;
+    text-decoration: none;
+    height: 50px;
+    width: 50px;
+}
+
 .address {
 
     margin-left: 250px;
@@ -120,8 +133,12 @@ body {
 }
 
 #submit {
-    background-color: tomato;
+    background-color: plum;
     color: white;
+}
+
+#update {
+    font-weight: 900;
 }
 
 .plan {
