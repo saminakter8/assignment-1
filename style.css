@@ -101,3 +101,16 @@ body {
     width: 250px;
     background-color: rgb(221, 240, 191);
 }
+
+.footer {
+    padding-top: 15px;
+    text-align: center;
+    height: 130px;
+    color: white;
+    background-color: black;
+}
+
+.footer h3 {
+    color: rgb(122, 188, 255);
+    font-family: fantasy;
+}
