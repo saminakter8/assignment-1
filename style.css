@@ -1,0 +1,32 @@
+body {
+    font-family: 'Raleway', sans-serif;
+
+}
+
+#image-bg {
+    background-image: url("images/donation8.jpg");
+    padding: 90px;
+}
+
+.first-sec {
+    text-align: center;
+}
+
+.first-sec h1 {
+    font-size: 70px;
+    font-weight: 900;
+    color: white;
+}
+
+.first-sec p {
+    font-weight: 100;
+    color: white;
+}
+
+.donate-link {
+    color: white;
+    text-decoration: none;
+    background-color: tomato;
+    padding: 10px;
+    border-radius: 5px;
+}
