@@ -40,8 +40,8 @@ body {
 }
 
 .money-amount {
-    justify-content: center;
     display: flex;
+    justify-content: center;
 }
 
 .amount-box {
@@ -60,10 +60,44 @@ body {
 
 #select-part {
     color: rgb(244, 9, 9);
-    border: 1px solid rgb(222, 25, 25);
+    border: 5px solid rgb(222, 25, 25);
     background-color: rgb(240, 152, 152);
 }
 
 .donate-today-part {
     color: rgb(168, 158, 158);
+}
+
+.text-part {
+    text-align: center;
+    margin: 60px;
+}
+
+.plan-part {
+    display: flex;
+    justify-content: center;
+}
+
+#food {
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 250px;
+    background-color: rgba(180, 140, 218, 0.305);
+}
+
+#shelter {
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 250px;
+    background-color: rgb(244, 208, 208);
+}
+
+#education {
+    padding: 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+    width: 250px;
+    background-color: rgb(221, 240, 191);
 }
